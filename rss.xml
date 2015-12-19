@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Hammercan]]></title>
         <description><![CDATA[Hammercan]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/hammercan/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 19 Dec 2015 10:14:50 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 19 Dec 2015 10:15:31 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/hammercan/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Hammer can is cool!</p>]]></description>
+            <link>https://thegrid.ai/hammercan/aedf1caa-a1c3-4753-9c32-9a31d6885c94/index.html</link>
+            <guid isPermaLink="false">aedf1caa-a1c3-4753-9c32-9a31d6885c94</guid>
+            <pubDate>Sat, 19 Dec 2015 10:15:02 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Getting Started on The Grid]]></title>
             <description><![CDATA[<article><h1>Getting Started on The Grid</h1><h2>Creating a Site</h2><p>Welcome to The Grid Beta, we’re excited to have you onboard! Here are a few quick tips to get you up and running. </p></article>]]></description>
-            <link>undefinedgetting-started-on-the-grid/index.html</link>
+            <link>https://thegrid.ai/hammercan/getting-started-on-the-grid/index.html</link>
             <guid isPermaLink="false">cea74df4-21c7-465a-b62b-dca658004f34</guid>
             <pubDate>Sat, 19 Dec 2015 10:14:42 GMT</pubDate>
         </item>
