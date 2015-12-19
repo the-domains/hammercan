@@ -1,0 +1,28 @@
+name: Hammercan
+favicon: null
+layout_spectrum: 0.5373998021241277
+typography_spectrum: 0.11903731501661241
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.2547233800869435
+  lightness: 0.4397616251371801
+  saturation: 0.7744531538337469
+  rhythmicContrast: 0.5484256180934608
+purpose: []
